@@ -1,0 +1,31 @@
+{
+  "name": "github-project-updater",
+  "version": "1.0.0",
+  "description": "Simple updater to update project cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Corentin Ardeois <corentin.ardeois@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "github": "^10.1.0",
+    "lodash": "^4.17.4",
+    "optimist": "^0.6.1",
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardeois/github-project-updater.git"
+  },
+  "keywords": [
+    "github",
+    "api",
+    "project"
+  ],
+  "bugs": {
+    "url": "https://github.com/ardeois/github-project-updater/issues"
+  },
+  "homepage": "https://github.com/ardeois/github-project-updater#readme"
+}
