@@ -2,6 +2,9 @@
   "name": "github-project-updater",
   "version": "1.0.0",
   "description": "Simple updater to update project cards",
+  "engines" : {
+    "node" : ">=7.0"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
